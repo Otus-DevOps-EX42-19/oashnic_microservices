@@ -5,7 +5,7 @@ ADD . /app
 
 RUN apk --no-cache add build-base && \
     pip install -r /app/requirements.txt && \
-    apk del build-essential
+    apk del build-base
 
 ENV POST_DATABASE_HOST post_db
 ENV POST_DATABASE posts
