@@ -13,3 +13,4 @@ consul                                 latest              c836e84db154        6
 alpine                                 latest              5cb3aa00f899        6 months ago        5.53MB
 registry.gitlab.com/clworks/go-dredd   latest              65bfe41557ae        7 months ago        437MB
 hello-world                            latest              fce289e99eb9        8 months ago        1.84kB
+/ubuntu-tmp-file
